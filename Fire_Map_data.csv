@@ -1,0 +1,920 @@
+﻿DeclaredCounty/Area,State,DistinctDisasterNumbers,Latitude (generated),Longitude (generated)
+Weston,Wyoming,2,43.8403,-104.5684
+Teton,Wyoming,1,43.9385,-110.5501
+Sheridan,Wyoming,2,44.7798,-106.9037
+Platte,Wyoming,1,42.1314,-104.9676
+Natrona,Wyoming,2,42.9727,-106.7878
+Lincoln,Wyoming,1,42.4553,-110.8185
+Crook,Wyoming,2,44.5882,-104.5708
+Converse,Wyoming,2,42.8966,-105.4856
+Albany,Wyoming,4,41.723,-105.6758
+Wyoming,West Virginia,1,37.6036,-81.5699
+Webster,West Virginia,1,38.4686,-80.4353
+Wayne,West Virginia,1,38.1326,-82.4393
+Upshur,West Virginia,1,38.8996,-80.2329
+Randolph,West Virginia,1,38.7548,-79.8266
+Raleigh,West Virginia,1,37.7493,-81.1743
+Nicholas,West Virginia,1,38.3154,-80.8243
+Monongalia,West Virginia,1,39.5788,-79.9721
+Mingo,West Virginia,1,37.7434,-82.2155
+Mercer,West Virginia,1,37.4167,-81.0766
+McDowell,West Virginia,1,37.3753,-81.6356
+Logan,West Virginia,1,37.8334,-81.9426
+Lincoln,West Virginia,1,38.1606,-82.0837
+Kanawha,West Virginia,1,38.2982,-81.5239
+Hardy,West Virginia,1,38.9993,-78.8269
+Grant,West Virginia,1,39.0712,-79.1885
+Gilmer,West Virginia,1,38.9138,-80.8124
+Clay,West Virginia,2,38.4672,-81.0583
+Cabell,West Virginia,2,38.413,-82.2762
+Braxton,West Virginia,1,38.7116,-80.7316
+Boone,West Virginia,1,37.9975,-81.7141
+Barbour,West Virginia,1,39.1254,-80.0274
+Yakima,Washington,8,46.5669,-120.6488
+Yakama Reservation,Washington,1,,
+Whitman,Washington,1,46.8409,-117.522
+Whatcom,Washington,1,48.8219,-121.7266
+Walla Walla,Washington,1,46.3041,-118.5042
+Stevens,Washington,5,48.3997,-117.8489
+Spokane Indian Reservation,Washington,1,,
+Spokane,Washington,3,47.6423,-117.4305
+Skamania,Washington,2,45.9743,-121.9292
+Pend Oreille,Washington,3,48.5392,-117.2681
+Okanogan,Washington,13,48.4732,-119.7409
+Lincoln,Washington,2,47.6123,-118.3998
+Klickitat,Washington,4,45.8257,-120.7766
+Kittitas,Washington,2,47.1679,-120.6629
+Kalispel Indian Reservation,Washington,1,,
+Garfield,Washington,1,46.3542,-117.5476
+Ferry,Washington,4,48.4175,-118.5235
+Douglas,Washington,3,47.6869,-119.7491
+Colville Indian Reservation,Washington,4,,
+Columbia,Washington,2,46.3041,-117.9269
+Chelan,Washington,13,47.9098,-120.5391
+Benton,Washington,2,46.2826,-119.5709
+Asotin,Washington,1,46.2299,-117.1874
+Warren,Virginia,1,38.8968,-78.1977
+Shenandoah,Virginia,1,38.8538,-78.5869
+Scott,Virginia,1,36.7396,-82.5828
+Rockingham,Virginia,1,38.5292,-78.9401
+Patrick,Virginia,1,36.7075,-80.274
+Page,Virginia,1,38.6265,-78.4806
+Nelson,Virginia,1,37.7921,-78.9043
+Dickenson,Virginia,1,37.1314,-82.361
+Buchanan,Virginia,1,37.2884,-82.0618
+Arlington,Virginia,1,38.8811,-77.1079
+Albemarle,Virginia,1,38.0006,-78.5618
+Weber,Utah,1,41.2554,-111.8947
+Washington,Utah,3,37.3071,-113.4764
+Utah,Utah,2,40.1782,-111.691
+Uintah and Ouray Indian Reservation,Utah,1,,
+Uintah,Utah,1,40.1698,-109.5135
+Sanpete,Utah,1,39.4342,-111.5243
+Salt Lake,Utah,2,40.6684,-111.9031
+Millard,Utah,2,39.0955,-113.0316
+Kane,Utah,1,37.2729,-111.8853
+Juab,Utah,1,39.6657,-112.8826
+Duchesne,Utah,1,40.3319,-110.4366
+Daggett,Utah,1,40.8298,-109.6975
+Zavala,Texas,2,28.8648,-99.7623
+Zapata,Texas,3,26.9454,-99.1717
+Young,Texas,7,33.1668,-98.6883
+Yoakum,Texas,3,33.1614,-102.828
+Wood,Texas,4,32.7755,-95.3972
+Wise,Texas,6,33.2115,-97.6555
+Winkler,Texas,4,31.8614,-103.0627
+Wilson,Texas,3,29.1652,-98.0851
+Williamson,Texas,8,30.6541,-97.6352
+Willacy,Texas,2,26.4556,-97.7389
+Wilbarger,Texas,5,34.1523,-99.2142
+Wichita,Texas,8,33.9973,-98.6882
+Wheeler,Texas,5,35.4067,-100.2697
+Wharton,Texas,2,29.299,-96.221
+Webb,Texas,3,27.7332,-99.288
+Washington,Texas,3,30.2215,-96.4299
+Ward,Texas,3,31.4598,-103.1287
+Waller,Texas,6,29.9884,-95.9999
+Walker,Texas,7,30.795,-95.5934
+Victoria,Texas,2,28.7954,-96.9415
+Van Zandt,Texas,3,32.6033,-95.8351
+Val Verde,Texas,4,29.7645,-101.0491
+Uvalde,Texas,3,29.3551,-99.7622
+Upton,Texas,4,31.369,-102.0443
+Upshur,Texas,5,32.7068,-94.9274
+Tyler,Texas,7,30.7932,-94.3877
+Trinity,Texas,4,31.1046,-95.1246
+Travis,Texas,11,30.3252,-97.7773
+Tom Green,Texas,6,31.3893,-100.4023
+Titus,Texas,4,33.19,-94.9689
+Throckmorton,Texas,4,33.1541,-99.2122
+Terry,Texas,4,33.1754,-102.3353
+Terrell,Texas,4,30.2125,-102.1628
+Taylor,Texas,6,32.3045,-99.8901
+Tarrant,Texas,5,32.7708,-97.2917
+Swisher,Texas,4,34.535,-101.7351
+Sutton,Texas,5,30.4919,-100.5386
+Stonewall,Texas,6,33.1802,-100.2535
+Sterling,Texas,4,31.8222,-101.0451
+Stephens,Texas,10,32.7377,-98.836
+Starr,Texas,2,26.5105,-98.7859
+Somervell,Texas,5,32.2014,-97.7856
+Smith,Texas,6,32.4125,-95.2456
+Sherman,Texas,3,36.2705,-101.8934
+Shelby,Texas,4,31.7749,-94.127
+Shackelford,Texas,5,32.7367,-99.354
+Scurry,Texas,5,32.7541,-100.9166
+Schleicher,Texas,3,30.9013,-100.539
+San Saba,Texas,7,31.2064,-98.8303
+San Patricio,Texas,2,27.9997,-97.5016
+San Jacinto,Texas,2,30.6136,-95.1783
+San Augustine,Texas,5,31.377,-94.1756
+Sabine,Texas,5,31.3731,-93.8461
+Rusk,Texas,6,32.1261,-94.7873
+Runnels,Texas,3,31.839,-99.9766
+Rockwall,Texas,3,32.8972,-96.4077
+Robertson,Texas,3,31.0267,-96.5129
+Roberts,Texas,5,35.8244,-100.8135
+Refugio,Texas,2,28.3093,-97.1471
+Reeves,Texas,4,31.3853,-103.6537
+Red River,Texas,5,33.6418,-95.0283
+Real,Texas,3,29.853,-99.8126
+Reagan,Texas,4,31.3693,-101.523
+Randall,Texas,6,34.9643,-101.8967
+Rains,Texas,3,32.8458,-95.8013
+Presidio,Texas,6,29.9461,-104.2391
+Potter,Texas,7,35.3994,-101.8943
+Polk,Texas,4,30.8186,-94.897
+Pecos,Texas,5,30.7143,-102.6595
+Parmer,Texas,3,34.5279,-102.7843
+Parker,Texas,5,32.7816,-97.8046
+Panola,Texas,6,32.1837,-94.3114
+Palo Pinto,Texas,11,32.7706,-98.3186
+Orange,Texas,4,30.1075,-93.8955
+Oldham,Texas,4,35.4003,-102.6039
+Ochiltree,Texas,4,36.2819,-100.8158
+Nueces,Texas,2,27.7778,-97.6629
+Nolan,Texas,7,32.3092,-100.4063
+Newton,Texas,7,30.7161,-93.745
+Navarro,Texas,4,32.0628,-96.4755
+Nacogdoches,Texas,5,31.5347,-94.5952
+Motley,Texas,5,34.0728,-100.7798
+Morris,Texas,4,33.1234,-94.7341
+Moore,Texas,4,35.8374,-101.8929
+Montgomery,Texas,8,30.3293,-95.5146
+Montague,Texas,6,33.7131,-97.732
+Mitchell,Texas,5,32.2991,-100.9214
+Mills,Texas,4,31.4778,-98.6518
+Milam,Texas,4,30.7849,-96.9758
+Midland,Texas,9,31.8364,-102.0316
+Menard,Texas,5,30.9164,-99.8004
+Medina,Texas,3,29.4024,-99.1087
+McMullen,Texas,2,28.3555,-98.5677
+McLennan,Texas,4,31.5514,-97.2004
+McCulloch,Texas,5,31.217,-99.3467
+Maverick,Texas,2,28.6426,-100.2812
+Matagorda,Texas,3,28.8246,-95.9122
+Mason,Texas,4,30.7183,-99.2239
+Martin,Texas,5,32.299,-101.9515
+Marion,Texas,6,32.7826,-94.3622
+Madison,Texas,3,30.9585,-95.9474
+Lynn,Texas,4,33.179,-101.8167
+Lubbock,Texas,3,33.6145,-101.8206
+Loving,Texas,3,31.826,-103.5679
+Llano,Texas,3,30.704,-98.6891
+Live Oak,Texas,4,28.4249,-98.1422
+Lipscomb,Texas,3,36.3128,-100.2732
+Limestone,Texas,4,31.5165,-96.5516
+Liberty,Texas,5,30.1848,-94.8629
+Leon,Texas,5,31.3146,-95.9962
+Lee,Texas,5,30.2949,-96.8887
+Lavaca,Texas,2,29.3566,-96.8972
+Lampasas,Texas,6,31.2393,-98.2864
+Lamb,Texas,4,34.0888,-102.3518
+Lamar,Texas,4,33.6614,-95.5832
+La Salle,Texas,4,28.301,-99.0981
+Knox,Texas,5,33.6159,-99.7337
+Kleberg,Texas,2,27.4227,-97.9022
+Kinney,Texas,3,29.3544,-100.4105
+King,Texas,7,33.6116,-100.2558
+Kimble,Texas,6,30.4915,-99.7102
+Kerr,Texas,4,30.0494,-99.3054
+Kent,Texas,5,33.1797,-100.7781
+Kenedy,Texas,2,26.9412,-97.7741
+Kendall,Texas,5,29.93,-98.6715
+Kaufman,Texas,3,32.5982,-96.2991
+Karnes,Texas,2,28.9476,-97.9006
+Jones,Texas,4,32.7392,-99.8789
+Johnson,Texas,5,32.3415,-97.3509
+Jim Wells,Texas,2,27.659,-98.0873
+Jim Hogg,Texas,4,27.0717,-98.7105
+Jefferson,Texas,3,29.8764,-94.1418
+Jeff Davis,Texas,9,30.761,-104.158
+Jasper,Texas,6,30.7013,-93.9986
+Jackson,Texas,2,28.9696,-96.562
+Jack,Texas,6,33.2355,-98.1705
+Irion,Texas,4,31.3054,-100.9812
+Hutchinson,Texas,5,35.8101,-101.3545
+Hunt,Texas,5,33.1232,-96.0795
+Hudspeth,Texas,3,31.3165,-105.4233
+Howard,Texas,9,32.2992,-101.4356
+Houston,Texas,6,31.26,-95.4349
+Hopkins,Texas,4,33.1751,-95.5852
+Hood,Texas,3,32.3932,-97.8161
+Hockley,Texas,4,33.6124,-102.3431
+Hill,Texas,5,31.9888,-97.1227
+Hidalgo,Texas,2,26.3986,-98.1887
+Henderson,Texas,4,32.1827,-95.8182
+Hemphill,Texas,4,35.8244,-100.2707
+Hays,Texas,7,30.065,-98.0268
+Haskell,Texas,4,33.1786,-99.7307
+Hartley,Texas,4,35.852,-102.602
+Harrison,Texas,6,32.5634,-94.3724
+Harris,Texas,3,29.8346,-95.389
+Hardin,Texas,6,30.3124,-94.3867
+Hardeman,Texas,5,34.315,-99.7365
+Hansford,Texas,4,36.2744,-101.3546
+Hamilton,Texas,4,31.7167,-98.0987
+Hall,Texas,5,34.534,-100.6806
+Hale,Texas,3,34.068,-101.8263
+Guadalupe,Texas,3,29.6123,-97.9639
+Grimes,Texas,6,30.5451,-95.9916
+Gregg,Texas,4,32.509,-94.8444
+Grayson,Texas,4,33.6831,-96.662
+Gray,Texas,3,35.3987,-100.8124
+Gonzales,Texas,4,29.4484,-97.5027
+Goliad,Texas,1,28.6571,-97.4682
+Glasscock,Texas,4,31.8477,-101.5209
+Gillespie,Texas,3,30.3291,-98.9457
+Garza,Texas,4,33.1798,-101.298
+Galveston,Texas,3,29.3824,-95.0331
+Gaines,Texas,3,32.7355,-102.6352
+Frio,Texas,3,28.8624,-99.1075
+Freestone,Texas,3,31.7139,-96.1581
+Franklin,Texas,5,33.179,-95.2164
+Fort Bend,Texas,3,29.5257,-95.746
+Foard,Texas,5,33.9777,-99.7617
+Floyd,Texas,3,34.069,-101.303
+Fisher,Texas,5,32.7425,-100.4024
+Fayette,Texas,6,29.8921,-96.9151
+Fannin,Texas,3,33.6132,-96.1193
+Falls,Texas,3,31.2537,-96.9393
+Erath,Texas,4,32.214,-98.2274
+Ellis,Texas,6,32.3014,-96.7619
+El Paso,Texas,3,31.6952,-106.1718
+Edwards,Texas,4,29.9663,-100.3478
+Ector,Texas,6,31.8599,-102.5429
+Eastland,Texas,7,32.2936,-98.8015
+Duval,Texas,3,27.6613,-98.5174
+Donley,Texas,4,34.9669,-100.8141
+Dimmit,Texas,3,28.4132,-99.7548
+Dickens,Texas,4,33.6166,-100.7789
+DeWitt,Texas,2,29.0996,-97.3051
+Denton,Texas,5,33.2078,-97.1156
+Delta,Texas,3,33.357,-95.7245
+Deaf Smith,Texas,4,34.9635,-102.6051
+Dawson,Texas,4,32.737,-101.9478
+Dallas,Texas,4,32.7661,-96.7774
+Dallam,Texas,3,36.2673,-102.6022
+Culberson,Texas,4,31.3019,-104.4978
+Crosby,Texas,4,33.6161,-101.3
+Crockett,Texas,5,30.6879,-101.3732
+Crane,Texas,4,31.3689,-102.5403
+Cottle,Texas,5,34.0712,-100.2829
+Coryell,Texas,7,31.394,-97.8008
+Cooke,Texas,3,33.6877,-97.2144
+Concho,Texas,4,31.3218,-99.8577
+Comanche,Texas,3,31.9702,-98.5993
+Comal,Texas,6,29.8168,-98.2891
+Colorado,Texas,3,29.6055,-96.5236
+Collingsworth,Texas,3,34.9674,-100.2701
+Collin,Texas,3,33.1929,-96.5676
+Coleman,Texas,4,31.7432,-99.4612
+Coke,Texas,6,31.8934,-100.5296
+Cochran,Texas,4,33.6054,-102.8284
+Clay,Texas,7,33.81,-98.2007
+Childress,Texas,5,34.5307,-100.2067
+Cherokee,Texas,5,31.7826,-95.1853
+Chambers,Texas,2,29.7071,-94.5223
+Castro,Texas,4,34.5304,-102.2618
+Cass,Texas,6,33.101,-94.3483
+Carson,Texas,4,35.3997,-101.3546
+Camp,Texas,4,32.99,-94.9935
+Cameron,Texas,2,26.1073,-97.5787
+Callahan,Texas,7,32.2983,-99.3739
+Calhoun,Texas,3,28.5138,-96.695
+Caldwell,Texas,6,29.8519,-97.6266
+Burnet,Texas,5,30.7338,-98.1859
+Burleson,Texas,3,30.5133,-96.6354
+Brown,Texas,6,31.7664,-98.958
+Brooks,Texas,5,27.0383,-98.2019
+Briscoe,Texas,5,34.535,-101.2086
+Brewster,Texas,5,29.8231,-103.0823
+Brazos,Texas,3,30.6529,-96.3806
+Brazoria,Texas,2,29.2123,-95.5313
+Bowie,Texas,6,33.4761,-94.3949
+Bosque,Texas,5,31.8982,-97.6486
+Borden,Texas,3,32.7474,-101.4322
+Blanco,Texas,4,30.2172,-98.4077
+Bexar,Texas,7,29.4377,-98.4722
+Bell,Texas,7,31.0402,-97.51
+Bee,Texas,2,28.4248,-97.7101
+Baylor,Texas,4,33.616,-99.2137
+Bastrop,Texas,12,30.1035,-97.3242
+Bandera,Texas,3,29.729,-99.2012
+Bailey,Texas,4,34.0706,-102.8295
+Austin,Texas,3,29.8495,-96.275
+Atascosa,Texas,2,28.9347,-98.5218
+Armstrong,Texas,4,34.9658,-101.3572
+Archer,Texas,6,33.6138,-98.6883
+Aransas,Texas,3,28.2209,-96.8754
+Angelina,Texas,3,31.2769,-94.6355
+Andrews,Texas,6,32.2885,-102.6379
+Anderson,Texas,6,31.7951,-95.6887
+,Texas,3,,
+Sevier,Tennessee,3,35.8034,-83.5126
+Sequatchie,Tennessee,2,35.358,-85.3691
+Rhea,Tennessee,1,35.6177,-84.9146
+Polk,Tennessee,1,35.1357,-84.511
+Pickett,Tennessee,1,36.5158,-85.1514
+Marion,Tennessee,2,35.1518,-85.6252
+Hawkins,Tennessee,1,36.4187,-82.9469
+Hancock,Tennessee,1,36.4929,-83.2626
+Grundy,Tennessee,2,35.3737,-85.6861
+Grainger,Tennessee,1,36.2508,-83.5495
+Fentress,Tennessee,1,36.3575,-84.9266
+Bledsoe,Tennessee,1,35.5632,-85.2671
+Anderson,Tennessee,1,36.1062,-84.2281
+Pennington,South Dakota,3,44.0997,-103.0311
+Meade,South Dakota,2,44.5827,-102.7842
+Lawrence,South Dakota,3,44.3682,-103.8124
+Fall River,South Dakota,2,43.2398,-103.5275
+Custer,South Dakota,4,43.6671,-103.4818
+Horry,South Carolina,3,33.9375,-78.9789
+Wasco,Oregon,2,45.2651,-121.2515
+Umatilla,Oregon,1,45.5072,-118.6314
+Linn,Oregon,1,44.4967,-122.5258
+Lake,Oregon,1,42.8178,-120.6468
+Klamath,Oregon,1,42.8067,-121.8166
+Josephine,Oregon,3,42.3912,-123.6336
+Jefferson,Oregon,3,44.6083,-121.0936
+Jackson,Oregon,4,42.5019,-122.7562
+Hood River,Oregon,2,45.4923,-121.6721
+Harney,Oregon,1,43.0263,-119.0802
+Grant,Oregon,1,44.4798,-119.009
+Douglas,Oregon,1,43.324,-122.8891
+Deschutes,Oregon,4,44.0035,-121.4056
+Curry,Oregon,1,42.4773,-124.2135
+Baker,Oregon,1,44.6697,-117.7972
+,Oregon,1,,
+Woodward,Oklahoma,4,36.4904,-99.2829
+Woods,Oklahoma,1,36.6966,-98.793
+Washita,Oklahoma,1,35.2812,-98.9941
+Washington,Oklahoma,2,36.7061,-95.9052
+Wagoner,Oklahoma,1,35.9637,-95.5202
+Tulsa,Oklahoma,5,36.1403,-96.0299
+Tillman,Oklahoma,1,34.3822,-98.9386
+Texas,Oklahoma,2,36.7482,-101.4928
+Stephens,Oklahoma,3,34.4846,-97.8509
+Sequoyah,Oklahoma,1,35.4655,-94.7664
+Seminole,Oklahoma,2,35.1649,-96.6089
+Rogers,Oklahoma,1,36.3402,-95.6238
+Roger Mills,Oklahoma,1,35.7257,-99.6885
+Pushmataha,Oklahoma,1,34.4191,-95.413
+Pottawatomie,Oklahoma,4,35.1821,-96.9595
+Pontotoc,Oklahoma,1,34.7367,-96.6696
+Pittsburg,Oklahoma,1,34.9475,-95.7985
+Payne,Oklahoma,5,36.0922,-96.9882
+Pawnee,Oklahoma,3,36.3612,-96.7798
+Ottawa,Oklahoma,1,36.8405,-94.8089
+Osage,Oklahoma,3,36.5814,-96.4481
+Okmulgee,Oklahoma,2,35.6142,-95.9529
+Oklahoma,Oklahoma,12,35.553,-97.4075
+Okfuskee,Oklahoma,2,35.4649,-96.2645
+Nowata,Oklahoma,1,36.7972,-95.6211
+Noble,Oklahoma,2,36.3869,-97.2468
+Muskogee,Oklahoma,2,35.5593,-95.4202
+Murray,Oklahoma,4,34.4847,-97.1165
+McIntosh,Oklahoma,5,35.3474,-95.6632
+McCurtain,Oklahoma,1,34.0618,-94.8152
+McClain,Oklahoma,5,35.0959,-97.5356
+Mayes,Oklahoma,2,36.2892,-95.2206
+Marshall,Oklahoma,1,33.9982,-96.776
+Major,Oklahoma,1,36.3473,-98.5327
+Love,Oklahoma,1,33.8942,-97.3498
+Logan,Oklahoma,3,35.945,-97.4398
+Lincoln,Oklahoma,3,35.6991,-96.8806
+Le Flore,Oklahoma,2,34.9461,-94.6876
+Latimer,Oklahoma,1,34.8722,-95.2527
+Kiowa,Oklahoma,2,34.8597,-98.9635
+Kingfisher,Oklahoma,2,35.9457,-97.9428
+Kay,Oklahoma,2,36.8036,-97.1074
+Johnston,Oklahoma,1,34.3082,-96.6703
+Jefferson,Oklahoma,2,34.0703,-97.8401
+Jackson,Oklahoma,2,34.5984,-99.3749
+Hughes,Oklahoma,1,35.0232,-96.2897
+Haskell,Oklahoma,1,35.2553,-95.1327
+Harper,Oklahoma,1,36.8014,-99.6494
+Harmon,Oklahoma,1,34.7829,-99.8603
+Greer,Oklahoma,1,34.922,-99.5146
+Grant,Oklahoma,1,36.8036,-97.7862
+Grady,Oklahoma,2,35.0328,-97.8818
+Garvin,Oklahoma,3,34.6793,-97.2476
+Garfield,Oklahoma,1,36.3798,-97.783
+Ellis,Oklahoma,1,36.2174,-99.7981
+Dewey,Oklahoma,1,35.9926,-99.0086
+Delaware,Oklahoma,1,36.4176,-94.8052
+Custer,Oklahoma,1,35.6387,-99.0045
+Creek,Oklahoma,10,35.9083,-96.3245
+Craig,Oklahoma,1,36.7555,-95.2156
+Cotton,Oklahoma,1,34.2753,-98.3742
+Comanche,Oklahoma,5,34.6414,-98.4841
+Coal,Oklahoma,1,34.5929,-96.3021
+Cleveland,Oklahoma,7,35.152,-97.2848
+Cimarron,Oklahoma,1,36.7562,-102.5169
+Choctaw,Oklahoma,1,34.0129,-95.5473
+Cherokee,Oklahoma,1,35.9006,-95.0432
+Carter,Oklahoma,6,34.2927,-97.248
+Canadian,Oklahoma,2,35.5264,-97.9889
+Caddo,Oklahoma,3,35.2039,-98.3564
+Bryan,Oklahoma,2,33.9223,-96.246
+Blaine,Oklahoma,2,35.8587,-98.4196
+Beckham,Oklahoma,1,35.2651,-99.6826
+Beaver,Oklahoma,1,36.7557,-100.4789
+Atoka,Oklahoma,1,34.4595,-95.9621
+Alfalfa,Oklahoma,1,36.7313,-98.3251
+Adair,Oklahoma,1,35.9006,-94.6623
+,Oklahoma,2,,
+Sioux,North Dakota,1,46.1869,-100.8971
+Washington,North Carolina,1,35.8405,-76.5773
+Tyrrell,North Carolina,1,35.7969,-76.2575
+Hyde,North Carolina,1,35.5164,-76.2309
+Cumberland,North Carolina,1,35.051,-78.8717
+Bladen,North Carolina,1,34.6121,-78.5716
+Yates,New York,1,42.6109,-77.1306
+Wyoming,New York,1,42.6952,-78.2099
+Westchester,New York,1,41.1249,-73.7718
+Wayne,New York,1,43.1793,-77.0416
+Washington,New York,1,43.376,-73.4303
+Warren,New York,1,43.5152,-73.9062
+Ulster,New York,1,41.8791,-74.2028
+Tompkins,New York,1,42.4439,-76.4727
+Tioga,New York,1,42.2046,-76.3107
+Sullivan,New York,1,41.7194,-74.7908
+Suffolk,New York,1,40.9086,-72.9176
+Steuben,New York,1,42.2995,-77.4184
+St. Lawrence,New York,1,44.5333,-75.1606
+Seneca,New York,1,42.7838,-76.8577
+Schuyler,New York,1,42.3922,-76.8958
+Schoharie,New York,1,42.5925,-74.4362
+Schenectady,New York,1,42.8329,-74.0442
+Saratoga,New York,1,43.0872,-73.8458
+Rockland,New York,1,41.1589,-74.0653
+Richmond,New York,1,40.5726,-74.1446
+Rensselaer,New York,1,42.713,-73.4898
+Queens,New York,1,40.7043,-73.8196
+Putnam,New York,1,41.4237,-73.7555
+Otsego,New York,1,42.6115,-74.9894
+Oswego,New York,1,43.4316,-76.2142
+Orleans,New York,1,43.2522,-78.2296
+Orange,New York,2,41.3876,-74.3315
+Ontario,New York,1,42.808,-77.2821
+Onondaga,New York,1,43.0228,-76.2029
+Oneida,New York,1,43.2406,-75.4975
+Niagara,New York,1,43.1973,-78.7555
+New York,New York,1,40.7882,-73.9605
+Nassau,New York,1,40.7554,-73.573
+Montgomery,New York,1,42.9109,-74.4198
+Monroe,New York,1,43.1531,-77.6857
+Madison,New York,1,42.9545,-75.7265
+Livingston,New York,1,42.7304,-77.7813
+Lewis,New York,1,43.8336,-75.4915
+Kings,New York,1,40.6553,-73.9391
+Jefferson,New York,1,44.0407,-75.8085
+Herkimer,New York,1,43.4652,-74.9411
+Hamilton,New York,1,43.6856,-74.505
+Greene,New York,1,42.2823,-74.1308
+Genesee,New York,1,43.0001,-78.1865
+Fulton,New York,1,43.1354,-74.427
+Franklin,New York,1,44.5612,-74.2572
+Essex,New York,1,44.1475,-73.7487
+Erie,New York,1,42.7691,-78.6668
+Dutchess,New York,1,41.7622,-73.728
+Delaware,New York,1,42.1831,-74.9537
+Cortland,New York,1,42.6006,-76.0718
+Columbia,New York,1,42.2448,-73.6407
+Clinton,New York,1,44.7224,-73.6768
+Chenango,New York,1,42.4711,-75.6351
+Chemung,New York,1,42.1465,-76.7623
+Chautauqua,New York,1,42.2858,-79.3876
+Cayuga,New York,1,43.0195,-76.6022
+Cattaraugus,New York,1,42.2766,-78.6848
+Broome,New York,1,42.2087,-75.8619
+Bronx,New York,1,40.856,-73.8664
+Allegany,New York,1,42.2585,-78.0236
+Albany,New York,1,42.6169,-73.977
+Valencia,New Mexico,3,34.697,-106.835
+Union,New Mexico,1,36.3704,-103.5249
+Torrance,New Mexico,5,34.6498,-105.878
+Taos,New Mexico,2,36.5058,-105.6413
+Socorro,New Mexico,4,34.0443,-106.8211
+Sierra,New Mexico,2,33.0436,-107.1072
+Santa Fe,New Mexico,3,35.5163,-105.9833
+Santa Clara Pueblo,New Mexico,1,,
+Sandoval,New Mexico,7,35.7068,-106.7786
+San Miguel,New Mexico,5,35.4542,-104.7319
+San Juan,New Mexico,3,36.5045,-108.3355
+Roosevelt,New Mexico,2,34.0899,-103.4948
+Rio Arriba,New Mexico,4,36.4672,-106.7823
+Quay,New Mexico,1,35.1756,-103.5469
+Otero,New Mexico,7,32.6969,-105.8645
+Mora,New Mexico,6,36.0086,-104.9416
+McKinley,New Mexico,2,35.4565,-108.1768
+Luna,New Mexico,1,32.1966,-107.7641
+Los Alamos,New Mexico,3,35.8672,-106.324
+Lincoln,New Mexico,9,33.7438,-105.472
+Lea,New Mexico,2,32.7925,-103.4398
+Jemez Pueblo,New Mexico,1,,
+Hidalgo,New Mexico,1,32.0624,-108.7865
+Harding,New Mexico,1,35.8052,-103.8729
+Guadalupe,New Mexico,2,34.7867,-104.7101
+Grant,New Mexico,3,32.5305,-108.2852
+Eddy,New Mexico,3,32.4808,-104.2872
+Dona Ana,New Mexico,2,32.4252,-106.8378
+DeBaca,New Mexico,2,34.3886,-104.4205
+Curry,New Mexico,2,34.6369,-103.3746
+Colfax,New Mexico,6,36.608,-104.6914
+Cochiti Pueblo,New Mexico,1,,
+Cibola,New Mexico,2,34.9699,-107.7712
+Chaves,New Mexico,2,33.3103,-104.326
+Catron,New Mexico,3,33.9034,-108.3815
+Bernalillo,New Mexico,5,35.0448,-106.677
+,New Mexico,2,,
+Warren,New Jersey,1,40.8438,-74.9606
+Union,New Jersey,1,40.6656,-74.2739
+Sussex,New Jersey,1,41.1285,-74.6997
+Somerset,New Jersey,1,40.5669,-74.6246
+Salem,New Jersey,1,39.5844,-75.3039
+Passaic,New Jersey,1,41.0117,-74.308
+Ocean,New Jersey,3,39.8409,-74.2864
+Morris,New Jersey,1,40.8677,-74.5721
+Monmouth,New Jersey,1,40.2791,-74.1884
+Middlesex,New Jersey,1,40.4306,-74.4006
+Mercer,New Jersey,1,40.2809,-74.6827
+Hunterdon,New Jersey,1,40.5639,-74.9125
+Hudson,New Jersey,1,40.7337,-74.0641
+Gloucester,New Jersey,1,39.6999,-75.1442
+Essex,New Jersey,1,40.7945,-74.2539
+Cumberland,New Jersey,1,39.3728,-75.124
+Cape May,New Jersey,1,39.1268,-74.8257
+Camden,New Jersey,1,39.8025,-74.9898
+Burlington,New Jersey,2,39.8671,-74.6832
+Bergen,New Jersey,1,40.9485,-74.0323
+Atlantic,New Jersey,1,39.5098,-74.6941
+,New Hampshire,1,,
+Washoe,Nevada,18,40.5919,-119.6547
+Storey,Nevada,1,39.4383,-119.5329
+Lyon,Nevada,1,39.0782,-119.0327
+Lincoln,Nevada,1,37.7609,-114.9727
+Eureka,Nevada,1,40.0869,-116.2172
+Elko,Nevada,10,41.0619,-115.5301
+Douglas,Nevada,5,38.8267,-119.5856
+Clark,Nevada,4,35.933,-115.2601
+Carson City,Nevada,5,39.1679,-119.7232
+Thomas,Nebraska,1,41.929,-100.5553
+Sioux,Nebraska,1,42.5049,-103.7667
+Dawes,Nebraska,1,42.7214,-103.1269
+Cherry,Nebraska,1,42.5459,-101.125
+Yellowstone,Montana,4,45.9727,-108.3601
+Wheatland,Montana,1,46.4874,-109.8421
+Treasure,Montana,1,46.1715,-107.2369
+Toole,Montana,1,48.6175,-111.7313
+Teton,Montana,1,47.8179,-112.1627
+Sweet Grass,Montana,3,45.701,-109.8912
+Stillwater,Montana,4,45.6523,-109.213
+Silver Bow,Montana,2,45.9061,-112.6901
+Sanders,Montana,3,47.6957,-115.1536
+Rosebud,Montana,3,46.0242,-106.5653
+Rocky Boy's Indian Reservation,Montana,1,,
+Ravalli,Montana,2,46.0635,-114.1304
+Prairie,Montana,1,46.8682,-105.5572
+Powell,Montana,3,46.9379,-113.0493
+Powder River,Montana,3,45.3947,-105.6109
+Pondera,Montana,1,48.2343,-112.4465
+Phillips,Montana,1,48.229,-107.8905
+Petroleum,Montana,1,47.175,-108.3333
+Park,Montana,2,45.597,-110.5064
+Northern Cheyenne Indian Reservation,Montana,1,,
+Musselshell,Montana,3,46.4464,-108.3212
+Missoula,Montana,5,47.1072,-113.9449
+Mineral,Montana,3,47.0981,-114.8631
+Meagher,Montana,2,46.6376,-110.8206
+Madison,Montana,2,45.2788,-111.9151
+Lincoln,Montana,2,48.4634,-115.4496
+Liberty,Montana,1,48.5739,-111.0115
+Lewis and Clark,Montana,5,47.1899,-112.5344
+Lake,Montana,2,47.597,-114.1349
+Judith Basin,Montana,1,47.0311,-110.2006
+Jefferson,Montana,2,46.1606,-112.1499
+Hill,Montana,1,48.5696,-110.1276
+Granite,Montana,2,46.3869,-113.4202
+Golden Valley,Montana,1,46.4005,-109.1318
+Glacier,Montana,1,48.6561,-112.9653
+Garfield,Montana,2,47.4172,-107.1049
+Gallatin,Montana,2,45.3376,-111.2056
+Fort Belknap Indian Reservation,Montana,1,,
+Flathead Indian Reservation,Montana,1,,
+Flathead,Montana,5,48.303,-114.0979
+Fergus,Montana,1,47.2602,-109.3598
+Fallon,Montana,1,46.2947,-104.4655
+Deer Lodge,Montana,2,46.0131,-113.0994
+Custer,Montana,1,46.3205,-105.5301
+Crow/Northern Cheyenne Area,Montana,1,,
+Crow Indian Reservation,Montana,1,,
+Chouteau,Montana,1,47.8648,-110.474
+Cascade,Montana,1,47.266,-111.4165
+Carter,Montana,1,45.5708,-104.5117
+Carbon,Montana,2,45.3168,-109.1433
+Broadwater,Montana,2,46.3095,-111.4521
+Blaine,Montana,1,48.3646,-108.9651
+Blackfeet Indian Reservation,Montana,1,,
+Big Horn,Montana,1,45.5509,-107.3996
+Beaverhead,Montana,2,45.1549,-113.0231
+Camden,Missouri,1,38.0296,-92.7914
+Washington,Minnesota,1,45.0213,-92.8735
+Pine,Minnesota,1,46.0796,-92.6745
+Morrison,Minnesota,1,46.0635,-94.2293
+Crow Wing,Minnesota,1,46.4798,-94.0703
+Chisago,Minnesota,1,45.5139,-92.8742
+Anoka,Minnesota,1,45.2255,-93.243
+Marquette,Michigan,1,46.4541,-87.6166
+Worcester,Massachusetts,1,42.3658,-71.9578
+Suffolk,Massachusetts,1,42.301,-71.0926
+Essex,Massachusetts,1,42.6513,-71.0076
+Vernon,Louisiana,1,31.1122,-93.1867
+Sabine,Louisiana,1,31.5062,-93.4781
+Red River,Louisiana,1,32.062,-93.319
+Rapides,Louisiana,1,31.2026,-92.5312
+Natchitoches,Louisiana,1,31.7492,-93.205
+Jefferson Davis,Louisiana,1,30.263,-92.8281
+Evangeline,Louisiana,1,30.741,-92.3853
+De Soto,Louisiana,1,32.0954,-93.7859
+Calcasieu,Louisiana,1,30.2641,-93.3691
+Beauregard,Louisiana,1,30.6436,-93.3292
+Allen,Louisiana,1,30.6655,-92.7883
+Whitley,Kentucky,2,36.7804,-84.1636
+Rockcastle,Kentucky,2,37.3462,-84.3152
+Pike,Kentucky,3,37.471,-82.3248
+McCreary,Kentucky,2,36.7781,-84.4911
+Martin,Kentucky,3,37.8157,-82.526
+Magoffin,Kentucky,2,37.6908,-83.0969
+Leslie,Kentucky,2,37.1023,-83.3517
+Lawrence,Kentucky,2,38.0749,-82.7514
+Laurel,Kentucky,2,37.1377,-84.1151
+Knox,Kentucky,2,36.8716,-83.8549
+Johnson,Kentucky,2,37.8526,-82.8331
+Jackson,Kentucky,2,37.4156,-83.9961
+Harlan,Kentucky,2,36.844,-83.2797
+Floyd,Kentucky,3,37.5213,-82.7592
+Clay,Kentucky,2,37.1482,-83.7483
+Breathitt,Kentucky,1,37.5153,-83.3353
+Bell,Kentucky,2,36.7691,-83.6441
+Stevens,Kansas,1,37.1918,-101.3117
+Reno,Kansas,1,37.9486,-98.0871
+Haskell,Kansas,1,37.5692,-100.8713
+Valley,Idaho,4,44.6858,-115.6567
+Shoshone,Idaho,1,47.5044,-116.0148
+Power,Idaho,1,42.7221,-112.8182
+Nez Perce,Idaho,1,46.2443,-116.8216
+Lincoln,Idaho,1,42.9844,-114.1546
+Lewis,Idaho,2,46.2308,-116.3601
+Lemhi,Idaho,1,44.9728,-114.0904
+Latah,Idaho,1,46.8386,-116.6846
+Kootenai,Idaho,1,47.6775,-116.6828
+Jerome,Idaho,1,42.672,-114.2745
+Idaho,Idaho,3,45.8945,-115.5619
+Fort Hall Indian Reservation,Idaho,1,,
+Elmore,Idaho,1,43.4545,-115.5288
+Custer,Idaho,1,44.228,-114.294
+Clearwater,Idaho,2,46.5961,-115.6489
+Boundary,Idaho,1,48.7983,-116.4171
+Bonner,Idaho,1,48.3729,-116.5425
+Boise,Idaho,1,43.9699,-115.7708
+Blaine,Idaho,2,43.3095,-113.8783
+Bingham,Idaho,1,43.2471,-112.2977
+Benewah,Idaho,1,47.2169,-116.6847
+Bannock,Idaho,1,42.6408,-112.163
+Ada,Idaho,1,43.4673,-116.224
+,Idaho,1,,
+Maui,Hawaii,4,20.8031,-156.3111
+Honolulu,Hawaii,3,21.484,-158.0381
+Hawaii,Hawaii,7,19.591,-155.4494
+,Hawaii,1,,
+Ware,Georgia,3,31.0216,-82.3674
+McIntosh,Georgia,1,31.4956,-81.4702
+Long,Georgia,1,31.7775,-81.797
+Coffee,Georgia,1,31.5867,-82.8437
+Charlton,Georgia,3,30.7162,-82.1044
+Bryan,Georgia,1,31.9846,-81.4508
+Brantley,Georgia,2,31.1925,-82.0272
+Atkinson,Georgia,1,31.302,-82.8413
+Washington,Florida,4,30.6112,-85.672
+Walton,Florida,4,30.6327,-86.1524
+Wakulla,Florida,3,30.1363,-84.3717
+Volusia,Florida,3,29.0205,-81.1398
+Union,Florida,5,30.0316,-82.3844
+Taylor,Florida,2,29.9856,-83.5757
+Suwannee,Florida,4,30.163,-83.0132
+Sumter,Florida,2,28.633,-82.1055
+St. Lucie,Florida,4,27.3823,-80.4869
+St. Johns,Florida,1,29.9382,-81.4423
+Seminole,Florida,4,28.7457,-81.2396
+Sarasota,Florida,5,27.1675,-82.2674
+Santa Rosa,Florida,1,30.6713,-87.0296
+Putnam,Florida,4,29.6056,-81.8327
+Polk,Florida,6,28.0031,-81.7384
+Pinellas,Florida,5,27.9341,-82.7715
+Pasco,Florida,2,28.3248,-82.3938
+Palm Beach,Florida,3,26.6457,-80.4653
+Osceola,Florida,5,27.9963,-81.1262
+Orange,Florida,5,28.5666,-81.2951
+Okeechobee,Florida,5,27.3016,-80.8409
+Okaloosa,Florida,1,30.6992,-86.5921
+Nassau,Florida,4,30.5521,-81.8734
+Monroe,Florida,4,25.4621,-81.0211
+Martin,Florida,6,27.0829,-80.4238
+Marion,Florida,4,29.2407,-82.0227
+Manatee,Florida,4,27.4274,-82.3328
+Madison,Florida,2,30.4557,-83.4724
+Liberty,Florida,3,30.2933,-84.8882
+Levy,Florida,4,29.2967,-82.749
+Leon,Florida,3,30.4796,-84.2219
+Lee,Florida,5,26.5436,-81.7444
+Lake,Florida,3,28.8116,-81.6866
+Lafayette,Florida,3,30.0414,-83.1969
+Jefferson,Florida,2,30.3778,-83.9384
+Jackson,Florida,3,30.7828,-85.1769
+Indian River,Florida,5,27.7062,-80.637
+Holmes,Florida,3,30.8497,-85.8166
+Hillsborough,Florida,5,27.9097,-82.2405
+Highlands,Florida,5,27.3401,-81.3049
+Hernando,Florida,2,28.5644,-82.4065
+Hendry,Florida,5,26.6046,-81.2253
+Hardee,Florida,4,27.4929,-81.8094
+Hamilton,Florida,5,30.476,-82.9714
+Gulf,Florida,3,29.9344,-85.2103
+Glades,Florida,5,26.9796,-81.2237
+Gilchrist,Florida,4,29.749,-82.7979
+Gadsden,Florida,2,30.5501,-84.6353
+Franklin,Florida,2,29.8538,-84.8366
+Flagler,Florida,3,29.4662,-81.3097
+Escambia,Florida,2,30.6538,-87.3304
+Duval,Florida,4,30.3866,-81.7798
+Dixie,Florida,3,29.5671,-83.1715
+DeSoto,Florida,4,27.1854,-81.8097
+Dade,Florida,4,,
+Columbia,Florida,5,30.2096,-82.6264
+Collier,Florida,7,26.1608,-81.3445
+Clay,Florida,5,29.9562,-81.8292
+Citrus,Florida,2,28.8593,-82.4374
+Charlotte,Florida,4,26.9023,-81.8292
+Calhoun,Florida,3,30.4039,-85.2086
+Broward,Florida,3,26.1511,-80.4895
+Brevard,Florida,6,28.3079,-80.7834
+Bradford,Florida,5,29.9315,-82.2143
+Bay,Florida,3,30.2988,-85.5727
+Baker,Florida,5,30.3606,-82.3149
+Alachua,Florida,5,29.6809,-82.3552
+Yuma,Colorado,1,40.0165,-102.4226
+Weld,Colorado,1,40.502,-104.5459
+Washington,Colorado,1,40.0163,-103.1328
+Ute Mountain Indian Reservation,Colorado,1,,
+Teller,Colorado,3,38.8999,-105.1784
+Summit,Colorado,1,39.6418,-106.0037
+Southern Ute Indian Reservation,Colorado,1,,
+San Miguel,Colorado,2,37.9642,-108.4124
+San Juan,Colorado,1,37.8024,-107.6462
+Saguache,Colorado,1,38.1037,-106.3318
+Routt,Colorado,1,40.4633,-107.0432
+Rio Grande,Colorado,2,37.6147,-106.3753
+Rio Blanco,Colorado,1,39.9282,-108.1848
+Pueblo,Colorado,2,38.1295,-104.5533
+Pitkin,Colorado,1,39.1721,-106.9304
+Park,Colorado,5,39.1322,-105.7895
+Ouray,Colorado,1,38.1129,-107.7265
+Otero,Colorado,1,37.9522,-103.7289
+Montrose,Colorado,2,38.4125,-108.2803
+Montezuma,Colorado,2,37.3197,-108.6287
+Moffat,Colorado,1,40.6098,-108.1812
+Mineral,Colorado,1,37.6844,-106.9202
+Mesa,Colorado,2,38.9347,-108.5839
+Lincoln,Colorado,1,39.0461,-103.442
+Las Animas,Colorado,4,37.4062,-103.9173
+Larimer,Colorado,11,40.6291,-105.4465
+Lake,Colorado,1,39.2184,-106.3357
+La Plata,Colorado,4,37.3197,-107.8468
+Kit Carson,Colorado,1,39.3162,-102.6018
+Kiowa,Colorado,1,38.4377,-102.7755
+Jefferson,Colorado,4,39.5234,-105.2388
+Jackson,Colorado,1,40.664,-106.3228
+Huerfano,Colorado,2,37.655,-104.9059
+Hinsdale,Colorado,1,37.7857,-107.2992
+Gunnison,Colorado,2,38.7039,-106.9748
+Grand,Colorado,1,40.0863,-106.1362
+Gilpin,Colorado,1,39.8421,-105.5153
+Garfield,Colorado,5,39.7184,-107.5261
+Fremont,Colorado,4,38.4842,-105.4521
+Elbert,Colorado,1,39.2151,-104.189
+El Paso,Colorado,4,38.8296,-104.5628
+Eagle,Colorado,2,39.6378,-106.6461
+Douglas,Colorado,3,39.3483,-104.9202
+Dolores,Colorado,1,37.6906,-108.5063
+Denver,Colorado,1,39.7644,-104.9549
+Delta,Colorado,2,38.9419,-107.804
+Custer,Colorado,4,38.0776,-105.3443
+Crowley,Colorado,2,38.298,-103.7784
+Costilla,Colorado,2,37.3277,-105.4554
+Conejos,Colorado,1,37.1987,-106.1713
+Clear Creek,Colorado,1,39.709,-105.66
+Cheyenne,Colorado,1,38.8243,-102.6046
+Chaffee,Colorado,1,38.7407,-106.1828
+Boulder,Colorado,5,40.088,-105.3448
+Bent,Colorado,1,37.9496,-103.0698
+Baca,Colorado,1,37.3182,-102.5627
+Archuleta,Colorado,1,37.2108,-107.0588
+Arapahoe,Colorado,1,39.6519,-104.2834
+Alamosa,Colorado,1,37.5466,-105.7781
+Adams,Colorado,1,39.8701,-104.1631
+,Colorado,1,,
+Yurok Indian Reservation,California,1,,
+Yuba,California,4,39.2797,-121.4381
+Ventura,California,15,34.4736,-119.084
+Tuolumne,California,2,38.0348,-119.8851
+Trinity,California,3,40.6758,-123.1435
+Tehama,California,2,40.1258,-122.2124
+Sonoma,California,2,38.4826,-122.8587
+Solano,California,3,38.29,-121.9027
+Shasta,California,11,40.7366,-122.0189
+Santa Cruz,California,7,37.0686,-122.0334
+Santa Clara,California,4,37.1901,-121.7207
+Santa Barbara,California,9,34.7446,-120.0357
+San Mateo,California,1,37.4084,-122.3109
+San Luis Obispo,California,1,35.3474,-120.336
+San Diego,California,19,33.0185,-116.6934
+San Bernardino,California,23,34.8464,-116.1156
+Riverside,California,22,33.754,-116.0203
+Plumas,California,2,40.0231,-120.8054
+Placer,California,4,39.0148,-120.7424
+Orange,California,13,33.6664,-117.7196
+Nevada,California,3,39.2666,-121.01
+Napa,California,3,38.5106,-122.3262
+Monterey,California,3,36.3564,-121.494
+Mendocino,California,2,39.3833,-123.4391
+Mariposa,California,3,37.5466,-119.9593
+Madera,California,1,37.2724,-119.6358
+Los Angeles,California,34,34.2663,-118.1424
+Lake,California,3,39.1258,-122.7929
+Kern,California,12,35.3032,-118.7204
+Karuk Reservation,California,1,,
+Inyo,California,1,36.6305,-117.5174
+Humboldt,California,1,40.7376,-123.8951
+Hoopa Valley Indian Reservation,California,1,,
+El Dorado,California,2,38.7852,-120.5254
+Calaveras,California,4,38.1718,-120.6567
+Butte,California,7,39.7252,-121.5788
+Alameda,California,2,37.6798,-121.8648
+,California,2,,
+Yavapai,Arizona,6,34.7064,-112.4429
+White Mountain Apache Tribe,Arizona,2,,
+Santa Cruz,Arizona,1,31.5332,-110.812
+Pinal,Arizona,3,32.9849,-111.4931
+Pima,Arizona,2,31.9681,-111.7806
+Navajo,Arizona,6,35.3134,-110.2972
+Mohave,Arizona,1,35.6177,-113.9958
+Maricopa,Arizona,3,33.2798,-112.7681
+Greenlee,Arizona,1,33.1001,-109.2714
+Gila,Arizona,6,33.7446,-110.685
+Coconino,Arizona,6,35.6465,-112.0424
+Cochise,Arizona,4,31.8901,-109.7497
+Apache,Arizona,3,35.3025,-109.4451
+Yukon Koyukuk Regional Educational Attendance Area,Alaska,1,,
+Yukon Flats Regional Educational Attendance Area,Alaska,1,,
+Tok,Alaska,2,,
+Tetlin,Alaska,1,,
+Tanana,Alaska,2,,
+Tanacross,Alaska,1,,
+Northway,Alaska,1,,
+Matanuska-Susitna,Alaska,1,62.3637,-149.7135
+Lower Yukon Regional Educational Attendance Area,Alaska,1,,
+Kenai Peninsula,Alaska,2,60.1107,-150.509
+Fairbanks North Star,Alaska,2,64.8624,-146.3565
+Dot Lake,Alaska,1,,
+Washington,Alabama,1,31.4071,-88.1879
+Walker,Alabama,1,33.7599,-87.2766
+Shelby,Alabama,1,33.2829,-86.6796
+Jefferson,Alabama,1,33.5455,-86.8602
+Jackson,Alabama,2,34.7224,-86.0339
+Franklin,Alabama,1,34.4509,-87.844
+Fayette,Alabama,1,33.7201,-87.7385
+Etowah,Alabama,1,34.0211,-86.0433
+DeKalb,Alabama,1,34.5306,-85.7226
+Cherokee,Alabama,1,34.2345,-85.6478
